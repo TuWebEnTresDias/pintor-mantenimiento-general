@@ -104,7 +104,7 @@ h3 { margin: 0; line-height: 1.1; }
 .zones .eyebrow { color: var(--accent); }
 .zones-layout { display: grid; gap: 2rem; }
 .zone-list { display: flex; flex-wrap: wrap; gap: .65rem; align-content: center; }
-.zone-list span { padding: .8rem 1rem; border: 1px solid rgba(246,232,234,.35); border-radius: 999px; color: #eff1eb; font-size: .9rem; }
+.zone-list span { padding: .8rem 1rem; border: 1px solid rgba(246,232,234,.35); border-radius: 999px; color: #f6e8ea; font-size: .9rem; }
 
 .faq { background: var(--white); }
 .faq-grid { display: grid; gap: 2rem; }
