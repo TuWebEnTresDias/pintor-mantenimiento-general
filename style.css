@@ -77,7 +77,7 @@ h3 { margin: 0; line-height: 1.1; }
 .intro h2 { max-width: 700px; font-family: var(--serif); font-weight: 400; }
 .intro-copy { max-width: 520px; margin: 0; color: var(--muted); font-size: clamp(1rem, 1.6vw, 1.18rem); }
 
-.services { background: var(--white); }
+.services { background: #f6dde0; background: color-mix(in srgb, var(--paper) 92%, var(--accent) 8%); }
 .service-layout { display: grid; gap: 2.5rem; }
 .section-heading { max-width: 700px; }
 .section-heading > p:last-child { max-width: 540px; margin: 1rem 0 0; color: var(--muted); font-size: 1rem; }
