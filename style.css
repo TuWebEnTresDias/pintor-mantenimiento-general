@@ -28,7 +28,8 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px soli
 .site-header.scrolled { background: rgba(34,24,28,.96); border-color: rgba(246,232,234,.1); backdrop-filter: blur(12px); }
 .header-inner { min-height: 76px; display: flex; align-items: center; justify-content: space-between; }
 .brand { display: inline-flex; align-items: center; gap: .75rem; letter-spacing: .02em; }
-.brand-mark { display: grid; place-items: center; width: 34px; height: 34px; border: 1px solid var(--accent); color: var(--accent); font: 1.2rem var(--serif); }
+.brand-mark { display: block; flex: 0 0 48px; width: 48px; height: 48px; overflow: hidden; border-radius: 10px; }
+.brand-mark img { display: block; width: 100%; height: 100%; object-fit: cover; }
 .brand strong, .brand small { display: block; }
 .brand strong { font-size: 1rem; }
 .brand small { margin-top: .05rem; color: rgba(246,232,234,.76); font-size: .62rem; letter-spacing: .13em; text-transform: uppercase; }
