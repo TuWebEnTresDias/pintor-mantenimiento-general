@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tuwebentresdias.github.io/pintor-mantenimiento-general/sitemap.xml
+Sitemap: https://pintoresdelacosta.com/sitemap.xml
